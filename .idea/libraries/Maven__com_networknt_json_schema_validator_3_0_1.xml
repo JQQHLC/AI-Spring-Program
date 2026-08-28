@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.networknt:json-schema-validator:3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/com/networknt/json-schema-validator/3.0.1/json-schema-validator-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/com/networknt/json-schema-validator/3.0.1/json-schema-validator-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/com/networknt/json-schema-validator/3.0.1/json-schema-validator-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

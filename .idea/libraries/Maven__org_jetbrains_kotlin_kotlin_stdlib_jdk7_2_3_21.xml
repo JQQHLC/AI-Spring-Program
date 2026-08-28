@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:2.3.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.21/kotlin-stdlib-jdk7-2.3.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.21/kotlin-stdlib-jdk7-2.3.21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../software/develop/java/maven/maven_repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.21/kotlin-stdlib-jdk7-2.3.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
